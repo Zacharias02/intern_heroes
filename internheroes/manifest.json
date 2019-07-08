@@ -1,0 +1,10 @@
+{
+  "name": "Jobbie.ph",
+  "short_name": "Jobbie.ph",
+  "theme_color": "#0062df",
+  "background_color": "#1d83e0",
+  "display": "standalone",
+  "Scope": "/",
+  "icons": null,
+  "splash_pages": null
+}

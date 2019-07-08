@@ -1,0 +1,21 @@
+# *
+# !images/
+# !admin_assets/
+# !fonts/
+# !js/
+# !css/
+# !.gitignore
+
+category_images/
+company_logos/
+cvs/
+favicon_images/
+slider_images/
+temp_project_images/
+user_images/
+listing_images/
+project_images/
+sitesetting_images/
+vendor/
+favicon.ico
+error_log
